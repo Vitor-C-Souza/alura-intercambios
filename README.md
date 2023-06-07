@@ -1,3 +1,3 @@
 # alura-intercambios
 
-Tema persoanlizado wordpress.
+Tema persoanlizado do wordpress.
